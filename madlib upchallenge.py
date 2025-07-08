@@ -1,0 +1,10 @@
+adj = input("Give me an adjective!")
+verb1 = input("Go ahead and send in a verb")
+nounpl = input("Think of a place..and TYPE IT")
+adj2 = input("Send in another adjectiveeeeee")
+noun1 = input("give me a noun")
+emo = input("Let's get emotional.. with one word type how you are feeling")
+plurN = input("Now give me a plural noun!")
+print("Okay these are all awesome parts of speech, thank you for your submissions..now for your awesome madlib:")
+print("The",adj,"dog",verb1,"quickly through", nounpl, "towards the",adj2,noun1,". He was so", emo,
+"to see so many", plurN)
